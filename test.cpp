@@ -9,6 +9,7 @@ int main()
     cout<<"nihao"<<endl;
 
     cout<<"hahaha"<<endl;
+    cout<<"ok"<<endl;
 
     return 0;
 }
